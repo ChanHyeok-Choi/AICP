@@ -9,3 +9,5 @@
 
 - Reference:
     1. [Sketch your own GAN](https://github.com/PeterWang512/GANSketching) (our baseline)
+    2. [SytleCLIP](https://github.com/orpatashnik/StyleCLIP)
+    3. [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada)
