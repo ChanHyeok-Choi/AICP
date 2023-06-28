@@ -6,3 +6,6 @@
     1. Text-Image CLIP Domain Optimization
     2. Text-Image CLIP Space Alignment
     3. Separate Content and Style Codes
+
+- Reference:
+    1. [Sketch your own GAN](https://github.com/PeterWang512/GANSketching) (our baseline)
